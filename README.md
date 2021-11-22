@@ -1,6 +1,10 @@
 # dining_court_app
 
-A new Flutter project.
+A work in progress; this app will make improvements to the current Purdue Dining Court Menu app in a variety of ways.
+  1. Users can review food items
+  2. Food items will have pictures next to them (#1 & #2 let people know what they are actually eating before they select a dining court - oftentimes foods listed on the dining court app sound better than they actually are)
+  3. Use SnapMap API to track the amount of people in dining courts
+  4. Implement a better search and sorting feature 
 
 ## Getting Started
 
